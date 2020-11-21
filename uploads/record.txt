@@ -1,0 +1,59 @@
+[05/14/2017][02:34:50][FRQ 03596000][SCANNING: SCANNING STARTED] 
+05-14-17 02:34
+42 28146000 Hz USB 28146000 Hz USB BX  FF0F 000 YD0OXH5         000 000  B  000
+40 24926000 Hz USB 24926000 Hz USB BX  DF0F 000 YD0OXH5         000 000  B  000
+37 21096000 Hz USB 21096000 Hz USB BX  FF0F 000 YD0OXH5         000 000  B  000
+32 18106000 Hz USB 18106000 Hz USB BX  DF1F 000 YD0OXH5         000 000  B  000
+26 14109000 Hz USB 14109000 Hz USB BX  FFFF 000 YD0OXH5         000 000  B  000
+23 10145500 Hz USB 10145500 Hz USB BX  DDF7 000 YD0OXH5         000 000  B  000
+17 7102000  Hz USB 7102000  Hz USB BX  F7B3 000 YD0OXH5         000 000  B  000
+14 7049500  Hz USB 7049500  Hz USB BX  EC21 000 YD0OXH5         000 000  B  000
+06 3596000  Hz USB 3596000  Hz USB BX  F391 000 YD0OXH5         000 000  B  000
+-- --------------- --------------- --- ---- --- --------------- --- --- --- ---
+ID RX FREQ    MODE TX FREQ    MODE T/R GRPS SND SELF            ANT PWR USE KEY
+[05/14/2017][02:34:37][FRQ 03596000][MMI CHANGE: AQC BURST MODE DISABLED]
+[05/14/2017][02:34:37][FRQ 03596000][MMI CHANGE: SET SOUNDING PERIOD TO 65 ]
+[05/14/2017][02:34:37][FRQ 03596000][MMI CHANGE: Set AMD Retries]
+[05/14/2017][02:34:37][FRQ 03596000][MMI CHANGE: TWA has been changed to 300 seconds]
+[05/14/2017][02:34:37][FRQ 03596000][MMI CHANGE: LINKED TWX ENABLED]
+[05/14/2017][02:34:37][FRQ 03596000][MMI CHANGE: SET MAXIMUM CALLING TIME 12 ]
+[05/14/2017][02:34:37][FRQ 03596000][MMI CHANGE: SET MINIMUM CALLING TIME 8 ]
+[05/14/2017][02:34:37][FRQ 03596000][MMI CHANGE: LIMIT SCANNING CALL DURATION ENABLED]
+[05/14/2017][02:34:37][FRQ 03596000][MMI CHANGE ERROR: AMBIGUOUS COMMAND]
+[05/14/2017][02:34:37][FRQ 03596000][MMI CHANGE ERROR: AMBIGUOUS COMMAND]
+[05/14/2017][02:34:36][FRQ 03596000][MMI CHANGE ERROR: AMBIGUOUS COMMAND]
+[05/14/2017][02:34:36][FRQ 03596000][MMI CHANGE ERROR: AMBIGUOUS COMMAND]
+[05/14/2017][02:34:36][FRQ 03596000][OPSEC Validation Passed. Licensee: Varuliantor Dear, YD0OXH]
+[05/14/2017][02:34:36][FRQ 03596000][Begin display of current OWN Address Book listing]
+
+19 ............... 18 ............... 17 ............... 16 ............... 
+15 ............... 14 ............... 13 ............... 12 ............... 
+11 ............... 10 ............... 09 ............... 08 ............... 
+07 ............... 06 ............... 05 ............... 04 ............... 
+03 ............... 02 ............... 01 ............... 00 YD0OXH5         
+[05/14/2017][02:34:36][FRQ 03596000][End of current OWN Address Book listing]
+[05/14/2017][02:34:36][FRQ 03596000][Begin display of current GROUP/Channels listing]
+42 28146000 Hz USB 28146000 Hz USB BX  FF0F 000 YD0OXH5         000 000  B  000
+40 24926000 Hz USB 24926000 Hz USB BX  DF0F 000 YD0OXH5         000 000  B  000
+37 21096000 Hz USB 21096000 Hz USB BX  FF0F 000 YD0OXH5         000 000  B  000
+32 18106000 Hz USB 18106000 Hz USB BX  DF1F 000 YD0OXH5         000 000  B  000
+26 14109000 Hz USB 14109000 Hz USB BX  FFFF 000 YD0OXH5         000 000  B  000
+23 10145500 Hz USB 10145500 Hz USB BX  DDF7 000 YD0OXH5         000 000  B  000
+17 7102000  Hz USB 7102000  Hz USB BX  F7B3 000 YD0OXH5         000 000  B  000
+14 7049500  Hz USB 7049500  Hz USB BX  EC21 000 YD0OXH5         000 000  B  000
+06 3596000  Hz USB 3596000  Hz USB BX  F391 000 YD0OXH5         000 000  B  000
+-- --------------- --------------- --- ---- --- --------------- --- --- --- ---
+ID RX FREQ    MODE TX FREQ    MODE T/R GRPS SND SELF            ANT PWR USE KEY
+[05/14/2017][02:34:36][FRQ 03596000][End of current GROUP/Channels listing]
+[05/14/2017][02:34:36][FRQ 03596000][***************************************************************************]
+[05/14/2017][02:34:36][FRQ 03596000][THIS SOFTWARE TOOL ALTHOUGH IT HAS BEEN THOROUGHLY TESTED, MAY NOT BE ERROR]
+[05/14/2017][02:34:36][FRQ 03596000][FREE AND IS PROVIDED FOR USE AS IS. PLEASE REPORT ANY ANOMALLIES VIA EMAIL:]
+[05/14/2017][02:34:36][FRQ 03596000][NNN0WWL@MARSALE.ORG WITH AS MUCH INFORMATION AS POSSIBLE FOR AN ANALYSIS.  ]
+[05/14/2017][02:34:36][FRQ 03596000][***************************************************************************]
+[05/14/2017][02:34:36][FRQ 03596000][For a listing of QS/S supported radios in see Radio Help Guide Appendix A. ]
+[05/14/2017][02:34:36][FRQ 03596000][***************************************************************************]
+[05/14/2017][02:34:36][FRQ 03596000][***************************************************************************]
+[05/14/2017][02:34:36][FRQ 03596000][MARS-ALE Standard Edition (SE) v2.00 started. Running build: B200A1        ]
+[05/14/2017][02:34:36][FRQ 03596000][***************************************************************************]
+[05/14/2017][02:34:36][FRQ 03596000][Be sure to use widest IF BW filters and/or set IF SHIFT to 1625hz.]
+[05/14/2017][02:34:36][FRQ 03596000][Uncheck MOTD for hardware ALE stations or AQC-ALE interoperability.]
