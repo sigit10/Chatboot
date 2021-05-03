@@ -62,7 +62,7 @@
                <form action = "" method = "post">
                   <label>UserName  :</label><input type = "text" name = "username" class = "box"/><br /><br />
                   <label>Password  :</label><input type = "password" name = "password" class = "box" /><br/><br />
-		  <label>Email 	   :</label><input type = "email" name ="email" class 
+		       
                   <input type = "submit" value = " Submit "/><br />
                </form>
                
