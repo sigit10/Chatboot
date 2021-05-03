@@ -28,6 +28,8 @@
    }
 ?>
 <html>
+	//test membuat halaman dashboar
+	//test membuat registrasi
    
    <head>
       <title>Login Page</title>
